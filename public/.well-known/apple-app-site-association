@@ -1,0 +1,14 @@
+{
+  applinks: {
+    details: [
+      {
+        appIDs: ["H856SYKNM8.com.clip.ddom"],
+        components: [
+          {
+            "/": "*",
+          },
+        ],
+      },
+    ];
+  }
+}
